@@ -1,6 +1,6 @@
 ## Olá, sou a Mari!👋
 
-- 🔭 Sempre em busca de formas criativas e eficientes de resolver problemas, especialmente quando envolvem dados, investigações, OSINT e tecnologia.
+- 🔭 Sempre em busca de formas criativas e eficientes de resolver problemas, especialmente quando envolvem investigações, dados, OSINT e tecnologia.
 
 - 🐍 Não tenho formação em programação, e realmente não sei programar, mas isso não me impede de me aventurar no mundo do Python. Com curiosidade e a ajuda da IA, venho explorando e aprendendo cada vez mais, construindo pequenas ferramentas que automatizam processos, tratam e analisam dados de forma útil para o meu dia a dia profissional.
 
